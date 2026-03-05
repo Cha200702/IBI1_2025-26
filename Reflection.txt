@@ -1,4 +1,6 @@
-This is an example file for reflection in IBI1_2025-26.
+This is an revised file for reflection in IBI1_2025-26.
+
+My name is Xu Ruijie
 
 During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
 
