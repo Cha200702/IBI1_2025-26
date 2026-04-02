@@ -123,3 +123,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Difficulty and notice:
+    # 1. The code imports defaultdict module, which is useful for setting default values for variables
+    # 2. The code imports matplotlib module to draw the pie chart
+    # 3. It's important to find out each element in the list before using [0]/[1] for sorting
+    # 4. Since all in-frame codons shown are messy, the code sets a threshold to sort parts of codons into "Others"
+    # 5. Still many unfamiliar functions are used like count(), sorted(), plt.savefig(), append()......
