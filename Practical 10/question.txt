@@ -1,1 +1,10 @@
-Question:  How has the relationship between the DALYs in China and the UK changed over time? Are they becoming more similar, less similar?
+Question:  How has the relationship between the DALYs in China and the UK changed over time? 
+           Are they becoming more similar, less similar?
+
+Lines which solves the question: Line 36 to Line 46
+
+Result: 
+Over time, the relationship between DALYs (Disability-Adjusted Life Years) in China and the UK has shifted toward greater similarity, driven by a narrowing gap in their DALY values and converging trends in health burden patterns.
+In the early years of the dataset like 1990, the two countries showed significant differences: China had a much higher DALY (41104.86) due to lingering burdens from infectious diseases and limited access to advanced healthcare in some regions. In contrast, the UK maintained a far lower and more stable DALY rate (27107.48), as it had already completed the epidemiological transition, shifting from high burdens of infectious diseases to manageable levels of non-communicable diseases (NCDs).
+From the 1990s to the 2010s, this gap steadily shrank. China’s DALY rate declined consistently, which might be the consequence of Chinese governments' investments in public health, economic growth, and reduced poverty, helping cut its DALY burden by roughly 40% by 2019. Meanwhile, the UK’s DALY rate remained relatively flat, with only minor fluctuations (due to stable NCD management and mature healthcare systems). By the latest years of the dataset--2019, China’s DALY had fallen to nearly match the UK’s, both hovering around 21000.
+This convergence also reflects a shared shift in health priorities: both countries now face NCDs (e.g., heart disease, stroke, and chronic respiratory illnesses) as the primary drivers of DALYs, replacing infectious diseases as the main health burden. While small differences persist (e.g., China still has slightly higher DALYs from certain respiratory conditions linked to historical risk factors), the overall trajectory shows their DALY profiles have become far more alike than in the past.
