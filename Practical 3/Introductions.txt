@@ -1,4 +1,5 @@
 Hello, my name is Xu Ruijie.
-I like drinking coffee and eating chocolate biscuits.
+I like drinking coffee and eating hamburgers.
 I am enjoying studying IBI1  
 I am happy that I can push my repo from Visual Studio Code to GitHub
+I am glad that you can see this message
