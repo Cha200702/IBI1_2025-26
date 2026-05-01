@@ -124,6 +124,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+
 # Difficulty and notice:
     # 1. The code imports defaultdict module, which is useful for setting default values for variables
     # 2. The code imports matplotlib module to draw the pie chart
