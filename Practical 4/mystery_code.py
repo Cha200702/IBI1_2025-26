@@ -18,4 +18,3 @@ while progress<=10:
 	total_rand+=n
 
 print(total_rand)
-
