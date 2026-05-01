@@ -40,6 +40,7 @@ for start in range(full_length - 2): # "-2" is used to prevent out-of-range erro
 print(f"The longest orf is {longest_orf}.")
 print(f"The length of this longest orf is {length}.")
 
+
 # Difficulty and notice:
   # 1. The code needs to find the longest ORF, which means comparasion is needed. --> "if" statement
   # 2. The codons are read in triplets, which means the step of the loop should be 3. --> "for" loop with step of 3
