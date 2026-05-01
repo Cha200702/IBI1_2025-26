@@ -3,6 +3,7 @@ b = 5.33*(10**6)
 c = 5.55*(10**6)
 d = b - a
 e = c - b
+
 if d > e:
     print("d is larger than e")
     print("The population growth is decelerating in Scotland.")
@@ -13,6 +14,7 @@ else:
     print("d and e are equal")
     print("The population growth is constant in Scotland.")
 # The population growth is decelerating in Scotland.
+
 X = True
 Y = False
 W = X or Y
