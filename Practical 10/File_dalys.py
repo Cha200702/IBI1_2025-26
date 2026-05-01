@@ -11,6 +11,7 @@ print(dalys_data.iloc[0:10,2:5])
 
 # The year 1998 reported the maximum DALYs across the first 10 years for which DALYs were recorded in Afghanistan.
 
+# Find all the years in the data for which DALYs were recorded in Zimbabwe
 print ("All years for which DALYs were recorded in Zimbabwe:")
 # Create an empty Boolean list
 result = [] 
@@ -25,6 +26,7 @@ print(",".join(result)) # join() is used to concatenate the elements in the resu
 
 # The first and last year for which these data were recorded are respectively 1990 and 2019.
 
+# Find the country with the highest and lowest DALYs in 2019
 recent_data = dalys_data.loc[dalys_data.Year == 2019, ["Entity", "DALYs"]]
 max = recent_data.loc[recent_data['DALYs'].idxmax(), 'Entity'] # idxmax() returns the index of the maximum value in the "DALYs" column
 print(f"The country with the highest DALYs in 2019 is {max}.")
@@ -33,6 +35,7 @@ min = recent_data.loc[recent_data['DALYs'].idxmin(), 'Entity']
 print(f"The country with the lowest DALYs in 2019 is {min}.")
 # The country with the lowest DALYs in 2019 is Singapore.
 
+# Draw a line plot
 Singapore = dalys_data.loc[dalys_data.Entity == "Singapore", ["Year", "DALYs"]]
 plt.figure (figsize =(8,5),dpi=150)
 plt.plot(Singapore.Year, Singapore.DALYs, 'ro') # "ro": "r" means red color and "o" means circle marker.
@@ -43,6 +46,7 @@ plt.xticks(Singapore.Year,rotation=-90)
 plt.tight_layout() # tight_layout() is used to prevent the labels from being cut off.
 plt.show()
 
+# Draw another line plot for the question part
 China = dalys_data.loc[dalys_data.Entity == "China", ["Year", "DALYs"]]
 United_Kingdom = dalys_data.loc[dalys_data.Entity == "United Kingdom", ["Year", "DALYs"]]
 plt.figure (figsize =(8,5),dpi=150)
