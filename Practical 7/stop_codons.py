@@ -81,6 +81,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+
 # Difficulty and notice:
   # 1. The code imports new module SeqIO
   # 2. Lots of unfamiliar functions are used like append(), __name__ , join().....
