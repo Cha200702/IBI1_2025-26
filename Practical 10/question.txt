@@ -1,14 +1,14 @@
 Question:  How has the relationship between the DALYs in China and the UK changed over time? 
            Are they becoming more similar, less similar?
 
-Lines which solves the question: Line 36 to Line 46
+Lines which solves the question: Line 49 to Line 60
 
 Result:
 
-Over time, the relationship between DALYs (Disability-Adjusted Life
-Years) in China and the UK has shifted toward greater similarity. This
-convergence is driven by a narrowing gap in absolute DALY values and
-parallel trends in the underlying patterns of national health burden.
+Over time, the relationship between DALYs in China and the UK has shifted 
+toward greater similarity. This convergence is driven by a narrowing gap in 
+absolute DALY values and parallel trends in the underlying patterns of national 
+health burden.
 
 --------------------------------------------------------------------
 1990: SIGNIFICANT DIVERGENCE IN HEALTH BURDEN
@@ -49,23 +49,6 @@ narrowed consistently:
 
 By 2019, the DALY rates had nearly converged, with both countries
 recording rates between 1,600 and 1,700 per 100,000 people.
-
---------------------------------------------------------------------
-SHARED HEALTH PRIORITIES: THE EPIDEMIOLOGICAL TRANSITION
---------------------------------------------------------------------
-
-The convergence in DALY rates also reflects a fundamental shift in
-health priorities for both nations. Non-communicable diseases have
-replaced infectious diseases as the primary drivers of health burden:
-
-- Leading causes of DALYs in both countries:
-  * Heart disease
-  * Stroke
-  * Chronic respiratory illnesses
-
-While small differences persist (e.g., China has slightly higher DALYs
-from certain respiratory conditions linked to historical risk factors),
-the overall disease burden profiles have become remarkably similar.
 
 --------------------------------------------------------------------
 CONCLUSION
