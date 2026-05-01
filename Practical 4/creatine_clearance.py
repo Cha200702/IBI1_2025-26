@@ -28,5 +28,5 @@ if valid ==  True:
 
     # Print the final result
     print("The creatinine clearance rate is " + str(round(CrCl, 2)) + " ml/min")
-    # "str()" is used to convert a number into a string
-    # "round()" is used to round a number to a specified number of decimal places, in this case 2
+      # "str()" is used to convert a number into a string
+      # "round()" is used to round a number to a specified number of decimal places, in this case 2
