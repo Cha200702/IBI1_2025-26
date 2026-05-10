@@ -81,3 +81,9 @@ plt.title('SIR Model', fontsize = 12)
 plt.savefig ("SIR_Model.png")
 
 plt.show()
+
+# Notice:
+# Why new_infected is applied here rather than directly  "infected += 1" (line 20 - line 34):
+  # Because SIR model defaults that the states of all individuals are fixed within the same time step.
+  # If "infected += 1", then it means when the first one is considered infected, then while the second individual is examining, the probability of infection will change.
+  # In this way, the number of infected will be exaggerated. (All state changes should occur at the end of the time step and take effect simultaneously.)
