@@ -1,1 +1,6 @@
-111
+This practical was much more difficult than previous ones, especially for part 3 "spatial_SIR.py"
+Despite the difficulty, I actually enjoyed this practical session.
+Making a 2D array and simulating an infection were quite interesting, as I had never done anything like this before.
+Learning to write code using functions like np.random.choice(), importing cm, and visualising with plt.imshow(population, cmap='viridis', interpolation='nearest') really broadened my bioinformatics horizons.
+From my perspective, the most important thing I've learned is that bioinformatics coding focuses on focuses on simulating health-related scenarios using 2D grids (or 2D arrays) rather than just drawing line charts or outputting indices.
+Based on that, I will view bioinformatics learning in a new way and pay more attention to practicals.
