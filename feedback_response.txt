@@ -1,0 +1,5 @@
+I have read the SSLC feedback carefully.
+In the feedback, it said that my scripts and code logic were correct so I didn't change them. 
+However, the original commit messages were not informative enough according to the marker. 
+To address the feedback, I have rewritten all the commit messages for week 3-5 practicals to be more specific.
+I tried to describe what exactly was changed in each commit more clearly, like changing "Editing the file" into "Editing the reflection.txt to include more details about my own reflection"
