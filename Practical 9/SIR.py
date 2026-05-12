@@ -5,7 +5,7 @@ import matplotlib . pyplot as plt
 # Set values
 N = 10000
 infected = 1
-susceptible = 999
+susceptible = 9999
 recovered = 0
 beta = 0.3
 gamma = 0.05
