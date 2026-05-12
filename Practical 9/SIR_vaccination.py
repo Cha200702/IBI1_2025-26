@@ -21,7 +21,7 @@ for idx, rate in enumerate(vac_rate):
     infected = 1
     # Vaccinated here may not be an integer so int() is needed.
     vaccinated = int(N * rate)
-    susceptible = N - vaccinated
+    susceptible = N - vaccinated - infected
     recovered = 0
     beta = 0.3
     gamma = 0.05
